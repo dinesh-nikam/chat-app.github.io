@@ -60,5 +60,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ---
+![Alt Text](images/chat-app.png)
+![Alt Text](images/UI-interface.png)
 
-Feel free to add or modify emojis based on your preferences, and have fun with your README.md! Emojis can help make your project documentation more lively and engaging for potential contributors and users.
+
+

@@ -57,7 +57,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments 🙏🎉
 
-Special thanks to ChatEngine for providing the real-time chat framework and the React.js community for their continuous support and resources.
+
 
 ---
 
